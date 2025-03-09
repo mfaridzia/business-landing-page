@@ -10,5 +10,9 @@
 ## Demo Web
 https://business-landing-page-bay.vercel.app
 
+## Install and Run on Local Machine
+- Run npm install --legacy-peer-deps
+- npm run dev
+
 
 ## Untuk soal nomor 1 ada di folder "soal-nomor-1" di repository ini
