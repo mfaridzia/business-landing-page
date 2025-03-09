@@ -7,5 +7,8 @@
 - Tailwind CSS
   Di sini untuk styling nya menggunakan Tailwind CSS, alasannya karena dapat mempercepat proses development, karena kita hanya perlu memanggil class-class yang sudah mereka sediakan, daripada harus menulis css sendiri yang tentu akan memakan waktu lebih lama. Kemudian dari segi maintainability menggunakan Tailwind akan lebih mudah daripada menulis css sendiri, karena biasanya tidak konsisten. Dengan Tailwind sudah dipastikan akan konsisten penulisan style dan class name nya. Sehingga orang baru akan lebih mudah memahami codebase nya.  Di sini juga menggunakan tailwindcss-animate untuk kebutuhan animasinya agar lebih smooth.
 
+## Demo Web
+https://business-landing-page-bay.vercel.app
+
 
 ## Untuk soal nomor 1 ada di folder "soal-nomor-1" di repository ini
