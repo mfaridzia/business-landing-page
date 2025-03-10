@@ -6,9 +6,8 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Modern Website",
-  description: "A modern website with smooth animations",
-    generator: 'v0.dev'
+  title: "Business Landing Page - ERP",
+  description: "Make it easier for entrepreneurs to record every item that comes in and out and record every profit they make every day",
 }
 
 export default function RootLayout({
@@ -22,7 +21,3 @@ export default function RootLayout({
     </html>
   )
 }
-
-
-
-import './globals.css'
